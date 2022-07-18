@@ -21,11 +21,9 @@ The following Classifier Models were used in this application,
 After the initial analysis, the GridSearchCV() to identify the best paramater for these models and reevaluate tthe performance of these Classifier Models. Among these, the LogisticRegression() model outperformed the other Classifier models.
 
 ## Content
-.
-├── Practical_Application_3.pdf          # PDF of the final assignment
-├── prompt_III_VJ.jpynb                  # jupyter notebook with coding pipeline
-├──  
-└── README.md                            # this readme file
+* Practical_Application_3.pdf          # PDF of the final assignment
+* prompt_III_VJ.jpynb                  # jupyter notebook with coding pipeline
+* README.md                            # this readme file
 
 ## Requirements
 1. This project is implemented with Python 3.7.13.

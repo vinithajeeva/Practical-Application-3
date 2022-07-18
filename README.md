@@ -20,6 +20,12 @@ The following Classifier Models were used in this application,
 6. SVC()
 After the initial analysis, the GridSearchCV() to identify the best paramater for these models and reevaluate tthe performance of these Classifier Models. Among these, the LogisticRegression() model outperformed the other Classifier models.
 
+### Feature Importance at the model-level
+
+## Conclusion
+* In this application, we were able to identify that LogisticRefression() model outperformed the other models for the given dataset
+* In all the models, the following features exhibits more importance in accepting/rejecting the bank marketing offer
+
 ## Content
 * Practical_Application_3.pdf          # PDF of the final assignment
 * prompt_III_VJ.jpynb                  # jupyter notebook with coding pipeline

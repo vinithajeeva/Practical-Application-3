@@ -5,7 +5,7 @@ Application to compare performance of Classifier Models and identify the feature
 The application is built based on the CRISP-DM framework. The following are the business objective of this application,
 1. Identify the performance/accuracy score of Classifier Models
 2. Identify the factors that affect the customer acceptance of banking products via telephone marketing
-3. Provide the recommendations to a used car dealership
+3. Summarize and provide future recommendations (if any)
 
 ## Data
 The dataset comes from the [UCI Machine Learning repository] (https://archive.ics.uci.edu/ml/datasets/bank+marketing). The data is from a Portugese banking institution and is a collection of the results of multiple marketing campaigns. The dataset contains 41188 entires with a total of 21 columns.

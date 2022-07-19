@@ -24,7 +24,7 @@ In the initial analysis, **KNeighborClassifier()** and **LogisticalRegression()*
 ![image](https://user-images.githubusercontent.com/102641103/179647533-4e8f34a2-98b4-4631-ab8b-d4aa14cc962f.png)
 
 After the initial analysis, the *GridSearchCV()* is applied to identify the best hyperparamaters and improved the performance of these Classifier Models. Among the improved models, **KNeighborClassifier()** and **DecisionTreeClassifier()** model outperformed the other improved classifier models.
-![image](https://user-images.githubusercontent.com/102641103/179650224-cb47ed38-9dba-4882-bfeb-49e08a09d206.png)
+![image](https://user-images.githubusercontent.com/102641103/179651030-bed9f6d5-4331-4a0c-bcb5-4af419875d49.png)
 
 ### Feature Importance of top models
 Based on all the model analysis, the following features exhibited the highest feature importance,

@@ -41,9 +41,9 @@ Based on all the model analysis, the following features exhibited the highest fe
 5. By focusing on these features, will emable the marketing team for better acceptance of bank products to its customers.
 
 ## Content
-* Practical_Application_3.pdf          # PDF summary report of the practical application
-* prompt_III_VJ.jpynb                  # jupyter notebook with coding pipeline
-* README.md                            # this readme file
+* Practical_Application_3_Summary.pdf          # PDF summary report of the practical application
+* prompt_III_VJ.jpynb                          # jupyter notebook with coding pipeline
+* README.md                                    # this readme file
 
 ## Requirements
 1. This project is implemented with Python 3.7.13.
